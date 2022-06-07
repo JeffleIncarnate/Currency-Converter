@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "okpV4STxaQDAUz/aZNfucEVW5xB7YcyzFtGkwuc35nMv/2mIa/o6Sw8amLvSPFa4Kp/69hd3VZ+oNN1qIvhAPw==",
+  "dgSpecHash": "pN6TBs+QhlXzg8pPtjDgiLDVqzs1mTH0vg8zfTMJ0qXYPU3CAscLcqbhThk5AhRobzleOCIR+k70n2M8sAaHgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Documents\\Code Files\\Weekly Challenges\\Currency Converter\\Currency Converter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
