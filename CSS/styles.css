@@ -1,0 +1,19 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+:root {
+  --grey: #fff;
+}
+
+.CUR__Main {
+  background-color: var();
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 20rem;
+  height: 20rem;
+  margin-left: -10rem;
+  margin-top: -10rem;
+  border-radius: 1.5rem;
+}
